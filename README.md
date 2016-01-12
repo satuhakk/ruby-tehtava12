@@ -5,6 +5,8 @@ Tee metodi luokittelu, joka saa parametriksi kokonaislukutaulukon ja palauttaa t
  :pariton, parittomien lukujen lista
  :summa, taulukon lukujen summa
 
+lukujen tulee olla suuruusjärjestyksessä metodien palauttamilla listoilla
+
 --
 
 Toimi seuraavasti:
